@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ojasvi Chandrakant Patel</h1>
-<h3 align="center">A Software Engineering Graduate student at Northeastern University</h3>
+<h3 align="center">A Software Engineering at MSKCC </h3>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **patel.oj@northeastern.edu**
+- 📫 How to reach me **ojasvipatel113@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
